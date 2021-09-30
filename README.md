@@ -12,7 +12,7 @@ This project has been created within the frames of the Microverse curriculum for
 
 ## Live Demo
 
-[www.hope-portfolio.oi](https://hope1226.github.io/Project-Portfolio/)
+[www.hope-portfolio.oi](https://hope1226.github.io/Profile-replica-bootstrap/)
 
 
 ## Getting Started
